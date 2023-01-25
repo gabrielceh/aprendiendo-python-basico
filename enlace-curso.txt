@@ -1,0 +1,9 @@
+link: https://www.youtube.com/watch?v=Kp4Mvapo5kc&t=1202s&ab_channel=MoureDevbyBraisMoure
+tipo: video youtube
+	canal: https://www.youtube.com/@mouredev
+
+recursos: 
+	https://wiki.python.org/moin/SpanishLanguage
+	https://github.com/Asabeneh/30-Days-Of-Python
+	https://www.codedex.io/
+	https://github.com/mouredev/Hello-Python
